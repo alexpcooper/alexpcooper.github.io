@@ -1,15 +1,15 @@
 <div align="center">
 <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
-</div>  
+
   
+  
+### Alex Cooper  
 
-### <div align="center">Alex Cooper</div>  
 
-
-<div align="center">
 Backend Developer
 <br />
 <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a>
+
 </div>
 
 
