@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center"><strong>Alex Cooper</strong></div>  
+### <div align="center">Alex Cooper</div>  
 
 
 <div align="center">
@@ -24,7 +24,7 @@ Backend Developer
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="60" />  
-<img style="margin: 15px" src="http://bulma.io/images/bulma-banner.png" alt="Bulma" height="60" />
+<img style="margin: 15px" src="https://bulma.io/images/bulma-banner.png" alt="Bulma" height="60" />
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="60" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="60" />  
 <img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="60" />  
@@ -40,19 +40,25 @@ Backend Developer
 
 
 ## Connect
+
 <div align="center">
+
 <a href="https://github.com/alexpcooper" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/alexpcooper" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://dev.to/alexpcooper" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://linkedin.com/in/alexpcooper" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+
 </div>  
   
 
