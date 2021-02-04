@@ -1,10 +1,11 @@
 <div align="center">
 <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
 
-  
+<br />
   
 ### Alex Cooper  
 
+<br />
 
 Backend Developer
 <br />
