@@ -97,9 +97,6 @@
       <br />Git
     </td>
 </table>
-    
-
-<br/>  
 
 
 <h3>Currently Learning / Investigating 🌱 </h3>
