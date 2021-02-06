@@ -1,19 +1,19 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css" />
+<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css?2250" />
 <div align="center">
    <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
 </div>
 
 <div align="center">
-   <h3>Alex Cooper</h3>
-   <h5>Backend Developer</h5>
-   <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a> 
+   <h3 class="title">Alex Cooper</h3>
+   <h5 class="subtitle">Backend Developer</h5>
+   <a href="https://alexpcooper.co.uk/" class="website_link" target="_blank">alexpcooper.co.uk</a> 
 </div> 
 
 
-<h2>Skill Set</h2>
+<h2 class="section_title">Skill Set</h2>
 
 
-<h3>Frontend</h3>
+<h3 class="section_title">Frontend</h3>
 <div class="row">
   <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50"><br>
@@ -38,7 +38,7 @@
 </div>
 
 
-<h3>Backend</h3>
+<h3 class="section_title">Backend</h3>
 
 <div class="row">
   <div class="col total5">
@@ -65,7 +65,7 @@
 
 
 
-<h3>Platforms, FrameWorks, Tools</h3>
+<h3 class="section_title">Platforms, FrameWorks, Tools</h3>
     
 
 <div class="row">
@@ -92,7 +92,7 @@
 </div>
 
 
-<h3>Currently Learning / Investigating 🌱 </h3>
+<h3 class="section_title">Currently Learning / Investigating 🌱 </h3>
 
 <div class="row">
   <div class="col total2">
@@ -108,7 +108,7 @@
 <br/>  
 
 
-<h2>Connect</h2>
+<h2 class="section_title">Connect</h2>
 
 <div align="center">
 
@@ -138,7 +138,7 @@
 <br/>  
 
 
-<h2>Github Stats</h2>
+<h2 class="section_title">Github Stats</h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexpcooper&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
