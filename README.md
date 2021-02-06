@@ -1,14 +1,16 @@
 <div align="center">
 <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
 
-<br />
+
   
 ### Alex Cooper  
 
-<br />
 
-Backend Developer
-<br />
+
+## Backend Developer
+
+
+
 <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a>
 
 </div>
@@ -20,45 +22,132 @@ Backend Developer
 ## Skill Set  
 
 
-<div align="center">  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="60" />  
-<img style="margin: 15px" src="https://bulma.io/images/bulma-banner.png" alt="Bulma" height="60" />
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" />  
-<img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="60" />  
-</div>
+### Frontend  
 
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50" />
+      <br />HTML
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS" height="50" />
+      <br />CSS
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript" height="50" />
+      <br />JavaScript
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery" height="50" />
+      <br />jQuery
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/bulma.svg" alt="Bulma" height="50" />
+      <br />Bulma
+    </td>
+  </tr>
+</table>
+
+
+### Backend 
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/php.svg" alt="PHP" height="50" />
+      <br />HTML
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mysql.svg" alt="MySQL" height="50" />
+      <br />MySQL
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mariadb.svg" alt="MariaDB" height="50" />
+      <br />MariaDB
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mongodb.svg" alt="MongoDB" height="50" />
+      <br />MongoDB
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/sql-code.svg" alt="SQL" height="50" />
+      <br />SQL
+    </td>
+</table>
+
+
+
+### Platforms, FrameWorks, Tools
+    
+
+<table width="100%">
+  <tr>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/wordpress.svg" alt="Wordpress" height="50" />
+      <br />Wordpress
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/magento.svg" alt="Magento" height="50" />
+      <br />Magento
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/laravel.svg" alt="Laravel" height="50" />
+      <br />Laravel
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/subversion.svg" alt="Subversion / SVN" height="50" />
+      <br />Subversion
+    </td>
+    <td width="20%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/git.svg" alt="Git" height="50" />
+      <br />Git
+    </td>
+</table>
+    
 
 <br/>  
 
+### Currently Learning / Investigating 🌱   
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img style="margin: 10px" src="https://alexpcooper.co.uk/assets/skill-icons/python.svg" alt="Python" height="50" /> 
+      <br />Python
+    </td>
+    <td width="50%" align="center">
+      <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/go.svg" alt="Wordpress" height="50" />
+      <br />Go
+    </td>
+  </tr>
+</table>
+
+
+<br/>  
 
 ## Connect
 
 <div align="center">
 
-<a href="https://github.com/alexpcooper" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+  <a href="https://alexpcooper.co.uk" target="_blank">
+    <img src="https://img.shields.io/badge/website-alexpcooper.co.uk-green?&style=for-the-badge" alt="Website: alexpcooper.co.uk" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://twitter.com/alexpcooper" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+  <a href="https://github.com/alexpcooper" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://dev.to/alexpcooper" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
+  <a href="https://twitter.com/alexpcooper" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
+  </a>
 
-<a href="https://linkedin.com/in/alexpcooper" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://dev.to/alexpcooper" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.To" style="margin-bottom: 5px;" />
+  </a>
+
+  <a href="https://linkedin.com/in/alexpcooper" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  </a>  
 
 </div>  
   
