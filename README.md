@@ -44,8 +44,8 @@
 
 (setq markdown-xhtml-header-content
       "<style type='text/css'>
-row { display: block; }
-col { width: 20%; display: inline-block; }
+.row { display: block; }
+.col { width: 20%; display: inline-block; }
 </style>")
 
 <div class="row">
