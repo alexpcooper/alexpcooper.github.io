@@ -1,18 +1,12 @@
-<div align="center">
-
-   <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
-
-
-  
-### Alex Cooper  
-
-
-#### Backend Developer
 
 
 
-   <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a>
+   
+<div align="center"><img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" /></div>
 
+<div align="center"> <h2>Alex Cooper</h2>
+<h5>Backend Developer</h5>
+<a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a> 
 
 </div>
 
@@ -110,6 +104,8 @@
 <br/>  
 
 ### Currently Learning / Investigating 🌱   
+
+
 <table width="100%">
   <tr>
     <td width="50%" align="center">
@@ -156,7 +152,8 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexpcooper&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
   
@@ -164,10 +161,10 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/alexpcooper" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
+   <a href="https://www.buymeacoffee.com/alexpcooper" target="_blank" style="display: inline-block;">
+       <img
+           src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
+           align="center"
+       />
+   </a>
+</div>
