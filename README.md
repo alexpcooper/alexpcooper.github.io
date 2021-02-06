@@ -16,19 +16,19 @@
 <h3 class="section_title">Frontend Development</h3>
 <div class="row">
   <div class="col total5">
-    <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50"><br>
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML"><br>
     HTML
   </div>
   <div class="col total5">
-    <img src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS" height="50"><br>
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS"><br>
     CSS
   </div>
   <div class="col total5">
-    <img src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript" height="50"><br>
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript"><br>
     JavaScript
   </div>
   <div class="col total5">
-    <img src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery" height="50"><br>
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery"><br>
     jQuery
   </div>
   <div class="col total5">
