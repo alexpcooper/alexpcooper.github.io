@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css" />
 <div align="center">
    <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
 </div>
@@ -41,12 +42,6 @@
    </tbody>
 </table>
 
-
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
-.row { display: block; }
-.col { width: 20%; display: inline-block; }
-</style>")
 
 <div class="row">
   <div class="col">
