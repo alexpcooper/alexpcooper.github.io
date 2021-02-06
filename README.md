@@ -13,7 +13,7 @@
 <h2 class="section_title">Skill Set</h2>
 
 
-<h3 class="section_title">Frontend</h3>
+<h3 class="section_title">Frontend Development</h3>
 <div class="row">
   <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50"><br>
@@ -38,7 +38,7 @@
 </div>
 
 
-<h3 class="section_title">Backend</h3>
+<h3 class="section_title">Backend Development</h3>
 
 <div class="row">
   <div class="col total5">
