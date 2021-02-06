@@ -42,6 +42,36 @@
 </table>
 
 
+(setq markdown-xhtml-header-content
+      "<style type='text/css'>
+row { display: block; }
+col { width: 20%; display: inline-block; }
+</style>")
+
+<div class="row">
+  <div class="col">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50"><br>
+    HTML
+  </div>
+  <div class="col">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS" height="50"><br>
+    CSS
+  </div>
+  <div class="col">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript" height="50"><br>
+    JavaScript
+  </div>
+  <div class="col">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery" height="50"><br>
+    jQuery
+  </div>
+  <div class="col">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/bulma.svg" alt="Bulma" height="50"><br>
+    Bulma
+  </div>
+</div>
+
+
 <h3>Backend</h3>
 
 <table width="100%">
