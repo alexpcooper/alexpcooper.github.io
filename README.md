@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css?2258" />
+<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css?2306" />
 <div align="center">
    <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" alt="AlexPCooper" class="top_image" />
 </div>
@@ -15,23 +15,27 @@
 
 <h3 class="section_title">Frontend Development</h3>
 <div class="row">
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML"><br>
     HTML
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS"><br>
     CSS
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript"><br>
     JavaScript
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery"><br>
     jQuery
   </div>
-  <div class="col total5">
+  <div class="col total6">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/sass.svg" alt="SASS"><br>
+    SASS
+  </div>
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/bulma.svg" alt="Bulma"><br>
     Bulma
   </div>
