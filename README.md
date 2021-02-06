@@ -6,10 +6,7 @@
    <h3>Alex Cooper</h3>
    <h5>Backend Developer</h5>
    <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a> 
-</div>
-
-
-<br/>  
+</div> 
 
 
 <h2>Skill Set</h2>
@@ -67,6 +64,7 @@
       <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/sql-code.svg" alt="SQL" height="50" />
       <br />SQL
     </td>
+   </tr>
 </table>
 
 
@@ -96,6 +94,7 @@
       <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/git.svg" alt="Git" height="50" />
       <br />Git
     </td>
+   </tr>
 </table>
 
 
