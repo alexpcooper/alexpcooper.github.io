@@ -14,53 +14,24 @@
 
 
 <h3>Frontend</h3>
-
-<table width="100%">
-   <tbody style="display: block">
-     <tr style="display: block;">
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50" />
-         <br />HTML
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS" height="50" />
-         <br />CSS
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript" height="50" />
-         <br />JavaScript
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery" height="50" />
-         <br />jQuery
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/bulma.svg" alt="Bulma" height="50" />
-         <br />Bulma
-       </td>
-     </tr>
-   </tbody>
-</table>
-
-
 <div class="row">
-  <div class="col">
+  <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/html5.svg" alt="HTML" height="50"><br>
     HTML
   </div>
-  <div class="col">
+  <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/css.svg" alt="CSS" height="50"><br>
     CSS
   </div>
-  <div class="col">
+  <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/javascript.svg" alt="JavaScript" height="50"><br>
     JavaScript
   </div>
-  <div class="col">
+  <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/jquery.svg" alt="jQuery" height="50"><br>
     jQuery
   </div>
-  <div class="col">
+  <div class="col total5">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/bulma.svg" alt="Bulma" height="50"><br>
     Bulma
   </div>
@@ -69,84 +40,70 @@
 
 <h3>Backend</h3>
 
-<table width="100%">
-  <tbody style="display: block">
-     <tr style="display: block">
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/php.svg" alt="PHP" height="50" />
-         <br />HTML
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mysql.svg" alt="MySQL" height="50" />
-         <br />MySQL
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mariadb.svg" alt="MariaDB" height="50" />
-         <br />MariaDB
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/mongodb.svg" alt="MongoDB" height="50" />
-         <br />MongoDB
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/sql-code.svg" alt="SQL" height="50" />
-         <br />SQL
-       </td>
-      </tr>
-   </tbody>
-</table>
+<div class="row">
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/php.svg" alt="PHP" height="50"><br>
+    HTML
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/mysql.svg" alt="MySQL" height="50"><br>
+    MySQL
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/mariadb.svg" alt="MariaDB" height="50"><br>
+    MariaDB
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/mongodb.svg" alt="MongoDB" height="50"><br>
+    MongoDB
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/sql-code.svg" alt="SQL" height="50"><br>
+    SQL
+  </div>
+</div>
 
 
 
 <h3>Platforms, FrameWorks, Tools</h3>
     
 
-<table width="100%">
-   <tbody style="display: block">
-     <tr style="display: block">
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/wordpress.svg" alt="Wordpress" height="50" />
-         <br />Wordpress
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/magento.svg" alt="Magento" height="50" />
-         <br />Magento
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/laravel.svg" alt="Laravel" height="50" />
-         <br />Laravel
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/subversion.svg" alt="Subversion / SVN" height="50" />
-         <br />Subversion
-       </td>
-       <td style="display: inline-block;" width="19%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/git.svg" alt="Git" height="50" />
-         <br />Git
-       </td>
-      </tr>
-   </tbody>
-</table>
+<div class="row">
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/wordpress.svg" alt="Wordpress" height="50"><br>
+    Wordpress
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/magento.svg" alt="Magento" height="50"><br>
+    Magento
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/laravel.svg" alt="Laravel" height="50"><br>
+    Laravel
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/subversion.svg" alt="Subversion / SVN" height="50"><br>
+    Subversion
+  </div>
+  <div class="col total5">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/git.svg" alt="Git" height="50"><br>
+    Git
+  </div>
+</div>
 
 
 <h3>Currently Learning / Investigating 🌱 </h3>
 
-
-<table width="100%">
-   <tbody style="display: block">
-     <tr style="display: block">
-       <td style="display: inline-block;" width="50%" align="center">
-         <img style="margin: 10px" src="https://alexpcooper.co.uk/assets/skill-icons/python.svg" alt="Python" height="50" /> 
-         <br />Python
-       </td>
-       <td style="display: inline-block;" width="50%" align="center">
-         <img style="margin: 15px" src="https://alexpcooper.co.uk/assets/skill-icons/go.svg" alt="Wordpress" height="50" />
-         <br />Go
-       </td>
-     </tr>
-   </tbody>
-</table>
-
+<div class="row">
+  <div class="col total2">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/python.svg" alt="Python" height="50"><br>
+    Python
+  </div>
+  <div class="col total2">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/go.svg" alt="Wordpress" height="50"><br>
+    Go
+  </div>
+</div>
 
 <br/>  
 
