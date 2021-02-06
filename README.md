@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css?2306" />
+<link rel="stylesheet" type="text/css" media="all" href="https://alexpcooper.co.uk/assets/github-io-styles.css?2310" />
 <div align="center">
    <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" alt="AlexPCooper" class="top_image" />
 </div>
@@ -45,25 +45,29 @@
 <h3 class="section_title">Backend Development</h3>
 
 <div class="row">
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/php.svg" alt="PHP"><br>
     HTML
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/mysql.svg" alt="MySQL"><br>
     MySQL
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/mariadb.svg" alt="MariaDB"><br>
     MariaDB
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/mongodb.svg" alt="MongoDB"><br>
     MongoDB
   </div>
-  <div class="col total5">
+  <div class="col total6">
     <img src="https://alexpcooper.co.uk/assets/skill-icons/sql-code.svg" alt="SQL"><br>
     SQL
+  </div>
+  <div class="col total6">
+    <img src="https://alexpcooper.co.uk/assets/skill-icons/api.svg" alt="APIs"><br>
+    APIs
   </div>
 </div>
 
