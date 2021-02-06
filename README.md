@@ -1,23 +1,21 @@
+<div align="center">
+   <img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" />
+</div>
 
-
-
-   
-<div align="center"><img src="https://alexpcooper.co.uk/wp-content/themes/alexpcooper/images/alex-cooper-128.png" align="center" height="128" width="128" /></div>
-
-<div align="center"> <h2>Alex Cooper</h2>
-<h5>Backend Developer</h5>
-<a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a> 
-
+<div align="center">
+   <h3>Alex Cooper</h3>
+   <h5>Backend Developer</h5>
+   <a href="https://alexpcooper.co.uk/" target="_blank">alexpcooper.co.uk</a> 
 </div>
 
 
 <br/>  
 
 
-## Skill Set  
+<h2>Skill Set</h2>
 
 
-### Frontend  
+<h3>Frontend</h3>
 
 <table width="100%">
   <tr>
@@ -45,7 +43,7 @@
 </table>
 
 
-### Backend 
+<h3>Backend</h3>
 
 <table width="100%">
   <tr>
@@ -73,7 +71,7 @@
 
 
 
-### Platforms, FrameWorks, Tools
+<h3>Platforms, FrameWorks, Tools</h3>
     
 
 <table width="100%">
@@ -103,7 +101,8 @@
 
 <br/>  
 
-### Currently Learning / Investigating 🌱   
+
+<h3>Currently Learning / Investigating 🌱 </h3>
 
 
 <table width="100%">
@@ -122,7 +121,8 @@
 
 <br/>  
 
-## Connect
+
+<h2>Connect</h2>
 
 <div align="center">
 
@@ -152,7 +152,7 @@
 <br/>  
 
 
-## Github Stats
+<h2>Github Stats</h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alexpcooper&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
